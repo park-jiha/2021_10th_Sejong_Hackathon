@@ -42,10 +42,12 @@
 : 비대면 시험 환경에서 실시간으로 입력되는 영상/음성 정보를 관리하고 부정행위와 연계된 이상을 감지하거나 경고 발생 및 녹화 등을 통해서 시험 감독 보조를 도와주는 시스템을 구현
 
 ### □ 시연 영상
-1. 통합
+1. 통합<br>
+![통합본_정상](https://user-images.githubusercontent.com/62232217/148694229-a1f0931e-533f-4f5e-ba26-5cba596e1e91.gif)
 
-2. 최종(정상 상황)
+2. 최종(정상 상황)<br>
+![최종_정상](https://user-images.githubusercontent.com/62232217/148694227-9a28b80f-6e22-4517-8142-b15a7a559647.gif)
 
-3. 최종(이상 상황)
-
+3. 최종(이상 상황)<br>
+![최종_이상](https://user-images.githubusercontent.com/62232217/148694226-b83fbbbc-ce2f-4fb1-8836-d800b61392fb.gif)
 
