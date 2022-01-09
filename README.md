@@ -43,11 +43,11 @@
 
 ### □ 시연 영상
 1. 통합<br>
-![통합본_정상](https://user-images.githubusercontent.com/62232217/148694229-a1f0931e-533f-4f5e-ba26-5cba596e1e91.gif)
+<img src="https://user-images.githubusercontent.com/62232217/148694229-a1f0931e-533f-4f5e-ba26-5cba596e1e91.gif"  width="350" height="600"/>
 
 2. 최종(정상 상황)<br>
-![최종_정상](https://user-images.githubusercontent.com/62232217/148694227-9a28b80f-6e22-4517-8142-b15a7a559647.gif)
+<img src="https://user-images.githubusercontent.com/62232217/148694227-9a28b80f-6e22-4517-8142-b15a7a559647.gif"  width="350" height="600"/>
 
 3. 최종(이상 상황)<br>
-![최종_이상](https://user-images.githubusercontent.com/62232217/148694226-b83fbbbc-ce2f-4fb1-8836-d800b61392fb.gif)
+<img src="https://user-images.githubusercontent.com/62232217/148694226-b83fbbbc-ce2f-4fb1-8836-d800b61392fb.gif"  width="350" height="600"/>
 
