@@ -45,13 +45,13 @@
 ### □ 개발 환경 : Jupyter Notebook, PyCharm
 ### □ 개발 언어 : Python
 ### □ 사용 기술
-#### 1. Face Detection
+#### 1. Face Detection (★)
 - Google MediaPipe의 Face Detection 기술 활용
 - 검출되는 얼굴의 갯수 파악 가능
 - 얼굴 갯수가 하나일 때 : 정상 / 얼굴 갯수가 0개 or 2개 이상 : 부정행위 의심
 - 참고 : https://google.github.io/mediapipe/solutions/face_detection
 
-#### 2. Hand Detection
+#### 2. Hand Detection (★)
 - Google MediaPipe의 Hand Detection 기술 활용
 - 검출되는 손의 갯수 파악 가능
 - 손 관절의 key point를 추출할 수 있지만, 해당 모델에 필요로 하지 않음
