@@ -46,7 +46,9 @@
 ### □ 개발 언어 : Python
 ### □ 사용 기술
 #### 1. Face Detection
-
+- 얼굴 검출 -> 갯수 판단 가능
+- 얼굴 갯수가 하나일 때 : 정상 / 얼굴 갯수가 0개 혹은 2개 이상 : 부정행위 의심
+- 참고 : https://google.github.io/mediapipe/solutions/face_detection
 
 #### 2. Hand Detection
 
