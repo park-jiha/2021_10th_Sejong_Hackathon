@@ -51,7 +51,10 @@
 - 참고 : https://google.github.io/mediapipe/solutions/face_detection
 
 #### 2. Hand Detection
-
+- 얼굴이 정면을 바라보고 있는지 판단
+- 정면을 바라보고 있는 경우 : 정상 / 정면이 아닌 다른 곳(좌,우,위 등)을 바라보고 있는 경우 : 부정행위 의심
+- 제한된 개발 환경(노트북)에서 모든 기술을 다 합쳐 구동하기에는 너무 heavy해지는 문제 발생(frame 끊김, 인식률 저하 등)
+- 참고 : 
 
 #### 3. Head Pose Estimation
 
