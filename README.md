@@ -47,9 +47,12 @@
 ### □ 사용 기술
 #### 1. Face Detection
 
+
 #### 2. Hand Detection
 
+
 #### 3. Head Pose Estimation
+
 
 ### □ 결과
 - 학습 모델에서 이상 상황에 대한 검출 결과 도출
