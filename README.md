@@ -47,6 +47,9 @@
 ### □ 사용 기술
 #### 1. Face Detection
 
+#### 2. Hand Detection
+
+#### 3. Head Pose Estimation
 
 
 
