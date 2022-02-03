@@ -88,6 +88,5 @@
 <img src="https://user-images.githubusercontent.com/62232217/148694226-b83fbbbc-ce2f-4fb1-8836-d800b61392fb.gif"  width="350" height="600"/>
 
 ### □ 수상
-장려상 수상
-
+![결혼하면 냉장고_장려상](https://user-images.githubusercontent.com/62232217/152422412-2f811d1a-9bb6-44d5-b822-43e3df6c9c80.jpg)
 
